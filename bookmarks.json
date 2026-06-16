@@ -30,5 +30,703 @@
         "favicon": "https://www.google.com/s2/favicons?domain=www.coursera.org&sz=32"
       }
     ]
+  },
+  "2024": {
+    "": [
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 7.42.27\u202fPM.png",
+        "url": "https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=z2KBQkJI0l5sEuyS",
+        "category": "Machine Learning",
+        "title": "Neural Networks: Zero to Hero",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 7.42.47\u202fPM.png",
+        "url": "https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=RI4jcAMcqum3TPOB",
+        "category": "Machine Learning",
+        "title": "Neural networks",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 7.43.03\u202fPM.png",
+        "url": "https://youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&si=hBIollG7lzZuOtVu",
+        "category": "Machine Learning",
+        "title": "Neural Networks Demystified",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 7.44.11\u202fPM.png",
+        "url": "https://youtu.be/XfpMkf4rD6E?si=PF-0F3sQjjTmEHNA",
+        "category": "Machine Learning",
+        "title": "Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtu.be&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 7.44.29\u202fPM.png",
+        "url": "https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU",
+        "category": "Machine Learning",
+        "title": "Practical Deep Learning for Coders",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 7.44.49\u202fPM.png",
+        "url": "https://fleuret.org/dlc/",
+        "category": "Machine Learning",
+        "title": "UNIGE 14x050 \u2013 Deep Learning",
+        "favicon": "https://www.google.com/s2/favicons?domain=fleuret.org&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 7.45.22\u202fPM.png",
+        "url": "https://atcold.github.io/NYU-DLSP20/",
+        "category": "Machine Learning",
+        "title": "DEEP LEARNING \u00b7 Deep Learning",
+        "favicon": "https://www.google.com/s2/favicons?domain=atcold.github.io&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 7.45.55\u202fPM.png",
+        "url": "https://fleuret.org/public/lbdl.pdf",
+        "category": "Machine Learning",
+        "title": "https://fleuret.org/public/lbdl.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=fleuret.org&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 7.47.07\u202fPM.png",
+        "url": "https://youtu.be/Z_ikDlimN6A?si=JPOcZQT-5vuaCaIc",
+        "category": "Machine Learning",
+        "title": "Learn PyTorch for deep learning in a day. Literally.",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtu.be&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 7.52.55\u202fPM.png",
+        "url": "https://youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&si=n4_rjugrzsxwBWEw",
+        "category": "Machine Learning",
+        "title": "Stanford CS25 - Transformers United",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 7.58.56\u202fPM.png",
+        "url": "https://rentry.org/machine-learning-roadmap",
+        "category": "Machine Learning",
+        "title": "Machine Learning Roadmap",
+        "favicon": "https://www.google.com/s2/favicons?domain=rentry.org&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 7.59.07\u202fPM.png",
+        "url": "https://rentry.org/LocalModelsLinks",
+        "category": "LLMs",
+        "title": "Local Models Related Links",
+        "favicon": "https://www.google.com/s2/favicons?domain=rentry.org&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 7.59.46\u202fPM.png",
+        "url": "https://github.com/mlabonne/llm-course",
+        "category": "LLMs",
+        "title": "GitHub - mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 8.00.01\u202fPM.png",
+        "url": "https://rentry.org/LocalModelsPapers",
+        "category": "LLMs",
+        "title": "Local Models Related Papers",
+        "favicon": "https://www.google.com/s2/favicons?domain=rentry.org&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 8.00.43\u202fPM.png",
+        "url": "https://github.com/naklecha/llama3-from-scratch",
+        "category": "LLMs",
+        "title": "GitHub - naklecha/llama3-from-scratch: llama3 implementation one matrix multiplication at a time",
+        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 8.00.59\u202fPM.png",
+        "url": "https://dataflowr.github.io/website/",
+        "category": "Machine Learning",
+        "title": "Dataflowr - Deep Learning DIY",
+        "favicon": "https://www.google.com/s2/favicons?domain=dataflowr.github.io&sz=32"
+      },
+      {
+        "image": "screenshots/2024/ai-overview.png",
+        "url": "https://microsoft.github.io/AI-For-Beginners/",
+        "category": "Machine Learning",
+        "title": "AI for Beginners",
+        "favicon": "https://www.google.com/s2/favicons?domain=microsoft.github.io&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 8.09.02\u202fPM.png",
+        "url": "https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=OLoGfB_7lFRNT8Xn",
+        "category": "Mathematics",
+        "title": "Essence of linear algebra",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 8.09.14\u202fPM.png",
+        "url": "https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science",
+        "category": "Mathematics",
+        "title": "Mathematics for Machine Learning and Data Science",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.coursera.org&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 8.09.28\u202fPM.png",
+        "url": "https://youtube.com/playlist?list=PL49CF3715CB9EF31D&si=ob1EMtaDdTB2LadB",
+        "category": "Mathematics",
+        "title": "Gilbert Strang lectures on Linear Algebra (MIT)",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 8.11.20\u202fPM.png",
+        "url": "https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&si=PZPKtxwjyT2ke1Pi",
+        "category": "Mathematics",
+        "title": "MIT 6.S191: Introduction to Deep Learning",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 8.11.39\u202fPM.png",
+        "url": "https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V",
+        "category": "Mathematics",
+        "title": "Probability Bootcamp",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 8.17.58\u202fPM.png",
+        "url": "https://youtu.be/9vM4p9NN0Ts?si=3o2LBIrjd7NGNRcH",
+        "category": "LLMs",
+        "title": "Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtu.be&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 8.19.12\u202fPM.png",
+        "url": "https://www.coursera.org/specializations/mathematics-engineers",
+        "category": "Mathematics",
+        "title": "Mathematics for Engineers",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.coursera.org&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 8.21.09\u202fPM.png",
+        "url": "https://youtu.be/0z6AhrOSrRs?si=BDWFfkA-QiwUKBnS",
+        "category": "Mathematics",
+        "title": "Mathematics for Machine Learning Tutorial (3 Complete Courses in 1 video)",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtu.be&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 8.22.28\u202fPM.png",
+        "url": "https://youtube.com/playlist?list=PLMrJAkhIeNNT14qn1c5qdL29A1UaHamjx&si=B5_LPoT6jR8-LNhE",
+        "category": "Mathematics",
+        "title": "Introduction to Statistics and Data Analysis",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/61Lvnv9+CML.jpg",
+        "url": "https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf",
+        "category": "Machine Learning",
+        "title": "https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.stat.berkeley.edu&sz=32"
+      },
+      {
+        "image": "screenshots/2024/61Sxfhpv7ML._UF1000,1000_QL80_.jpg",
+        "url": "https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf",
+        "category": "Mathematics",
+        "title": "https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.sas.upenn.edu&sz=32"
+      },
+      {
+        "image": "screenshots/2024/61d47UrjRtL.jpg",
+        "url": "http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf",
+        "category": "Machine Learning",
+        "title": "http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=ema.cri-info.cm&sz=32"
+      },
+      {
+        "image": "screenshots/2024/71D7jwoejTL._AC_UF1000,1000_QL80_.jpg",
+        "url": "https://softouch.on.ca/kb/data/Designing%20Machine%20Learning%20Systems.pdf",
+        "category": "Machine Learning",
+        "title": "https://softouch.on.ca/kb/data/Designing%20Machine%20Learning%20Systems.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=softouch.on.ca&sz=32"
+      },
+      {
+        "image": "screenshots/2024/71HNF5BMTCL._UF1000,1000_QL80_.jpg",
+        "url": "https://github.com/LTS-tech-community/data-science-resources/blob/main/pdfcoffee.com_david-spiegelhalter-learning-from-data-the-art-of-statistics-pelican-2019-pdf-free.pdf",
+        "category": "Mathematics",
+        "title": "data-science-resources/pdfcoffee.com_david-spiegelhalter-learning-from-data-the-art-of-statistics-pelican-2019-pdf-free.pdf at main \u00b7 LTS-tech-community/data-science-resources",
+        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/71UF9mDAX3L.jpg",
+        "url": "https://github.com/xuyanshi/AI-ML/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow.pdf",
+        "category": "Machine Learning",
+        "title": "AI-ML/Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow.pdf at main \u00b7 xuyanshi/AI-ML",
+        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/71WIpYDDqqL.jpg",
+        "url": "https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf",
+        "category": "Machine Learning",
+        "title": "https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=sourestdeeds.github.io&sz=32"
+      },
+      {
+        "image": "screenshots/2024/71ZPgUTDn6L.jpg",
+        "url": "https://mml-book.github.io/book/mml-book.pdf",
+        "category": "Mathematics",
+        "title": "https://mml-book.github.io/book/mml-book.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=mml-book.github.io&sz=32"
+      },
+      {
+        "image": "screenshots/2024/71kZBjR+OVL.jpg",
+        "url": "https://udlbook.github.io/udlbook/",
+        "category": "Machine Learning",
+        "title": "Understanding Deep Learning",
+        "favicon": "https://www.google.com/s2/favicons?domain=udlbook.github.io&sz=32"
+      },
+      {
+        "image": "screenshots/2024/91Yqv5wWuPL._AC_UF1000,1000_QL80_.jpg",
+        "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+        "category": "Machine Learning",
+        "title": "Python Data Science Handbook | Python Data Science Handbook",
+        "favicon": "https://www.google.com/s2/favicons?domain=jakevdp.github.io&sz=32"
+      },
+      {
+        "image": "screenshots/2024/A10G+oKN3LL.jpg",
+        "url": "https://www.deeplearningbook.org/",
+        "category": "Machine Learning",
+        "title": "Deep Learning",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.deeplearningbook.org&sz=32"
+      },
+      {
+        "image": "screenshots/2024/51793S0SvIL._AC_UF1000,1000_QL80_.jpg",
+        "url": "https://linear.axler.net/LADR4e.pdf",
+        "category": "Mathematics",
+        "title": "https://linear.axler.net/LADR4e.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=linear.axler.net&sz=32"
+      },
+      {
+        "image": "screenshots/2024/71I+IW3jj4L._AC_UF1000,1000_QL80_.jpg",
+        "url": "https://jcer.in/jcer-docs/E-Learning/Digital%20Library%20/E-Books/linear-algebra-author-gilbert-strang.pdf",
+        "category": "Mathematics",
+        "title": "https://jcer.in/jcer-docs/E-Learning/Digital%20Library%20/E-Books/linear-algebra-author-gilbert-strang.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=jcer.in&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 11.57.30\u202fPM.png",
+        "url": "https://youtube.com/playlist?list=PL_UEf8P1IjTjsbPasIQf3jWfQnM0xt0ZN&si=U9bO2SsfPIH4MfZu",
+        "category": "Machine Learning",
+        "title": "Neural network Learns",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 11.57.47\u202fPM.png",
+        "url": "https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e",
+        "category": "LLMs",
+        "title": "Normcore LLM Reads",
+        "favicon": "https://www.google.com/s2/favicons?domain=gist.github.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 11.58.03\u202fPM.png",
+        "url": "https://www.deep-ml.com/",
+        "category": "Machine Learning",
+        "title": "Deep-ML | Practice Machine Learning",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.deep-ml.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 11.58.20\u202fPM.png",
+        "url": "https://playground.tensorflow.org/",
+        "category": "Machine Learning",
+        "title": "Tensorflow \u2014 Neural Network Playground",
+        "favicon": "https://www.google.com/s2/favicons?domain=playground.tensorflow.org&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 11.58.33\u202fPM.png",
+        "url": "https://bbycroft.net/llm",
+        "category": "LLMs",
+        "title": "LLM Visualization",
+        "favicon": "https://www.google.com/s2/favicons?domain=bbycroft.net&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-17 at 12.00.26\u202fAM.png",
+        "url": "https://huggingface.co/learn/llm-course/chapter1/1",
+        "category": "LLMs",
+        "title": "Introduction \u00b7 Hugging Face",
+        "favicon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-17 at 12.01.37\u202fAM.png",
+        "url": "https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=04SemN8limP8zr-5",
+        "category": "Mathematics",
+        "title": "Essence of calculus",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-17 at 12.01.52\u202fAM.png",
+        "url": "https://youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&si=RIK2xwzN6Pzcg7Pe",
+        "category": "Mathematics",
+        "title": "Differential equations",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-17 at 12.02.02\u202fAM.png",
+        "url": "https://aman.ai/primers/ai/top-30-papers/",
+        "category": "Machine Learning",
+        "title": "Aman's AI Journal \u2022 Primers \u2022 Ilya Sutskever's Top 30",
+        "favicon": "https://www.google.com/s2/favicons?domain=aman.ai&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-17 at 2.10.23\u202fAM.png",
+        "url": "https://d2l.ai/",
+        "category": "Machine Learning",
+        "title": "Dive into Deep Learning \u2014 Dive into Deep Learning 1.0.3 documentation",
+        "favicon": "https://www.google.com/s2/favicons?domain=d2l.ai&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-17 at 2.17.09\u202fAM.png",
+        "url": "https://aiengineeringfromscratch.com/",
+        "category": "Machine Learning",
+        "title": "AI Engineering from Scratch",
+        "favicon": "https://www.google.com/s2/favicons?domain=aiengineeringfromscratch.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-17 at 2.28.41\u202fAM.png",
+        "url": "https://youtube.com/playlist?list=PLUl4u3cNGP61VNvICqk2HXJTonnKgAc9d&si=5T9XlRWH55kALmZV",
+        "category": "Mathematics",
+        "title": "MIT 6.1200J Mathematics for Computer Science, Spring 2024",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 4.23.03\u202fPM.png",
+        "url": "https://youtube.com/playlist?list=PLx2ksyallYzW4WNYHD9xOFrPRYGlntAft&si=4xoxeM6TqksZsPX4",
+        "category": "Neovim",
+        "title": "Understanding Neovim",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 4.24.43\u202fPM.png",
+        "url": "https://youtube.com/playlist?list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn&si=V3F7r-aZKnASAqxb",
+        "category": "Neovim",
+        "title": "Neovim for Newbs. FREE NEOVIM COURSE",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 4.26.03\u202fPM.png",
+        "url": "https://youtu.be/m8C0Cq9Uv9o?si=NiOUTwpNzJysqbC7",
+        "category": "Neovim",
+        "title": "The Only Video You Need to Get Started with Neovim",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtu.be&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 4.27.59\u202fPM.png",
+        "url": "https://youtube.com/playlist?list=PLsz00TDipIfeDrFeSA56W1wPrYYg_Kd-b&si=zuGpBgZDk3Z3EPaU",
+        "category": "Neovim",
+        "title": "Hyprland tutorial for newbs",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 4.28.08\u202fPM.png",
+        "url": "https://youtube.com/playlist?list=PLsz00TDipIffGKMW4hmzmwXTvARXyJMn8&si=InLP7c0sqQSDkLwr",
+        "category": "Neovim",
+        "title": "Linux for Newbs",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 4.28.15\u202fPM.png",
+        "url": "https://youtube.com/playlist?list=PLsz00TDipIfdrJDjpULKY7mQlIFi4HjdR&si=972lVJgPRgRnvrtu",
+        "category": "Neovim",
+        "title": "Tmux for Newbs. FREE TMUX COURSE",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 4.28.51\u202fPM.png",
+        "url": "https://youtu.be/CuWfgiwI73Q?si=T3u1UP_K58ZVsxc4",
+        "category": "Neovim",
+        "title": "Everything You Need To Start Writing Lua",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtu.be&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 4.29.34\u202fPM.png",
+        "url": "https://youtu.be/VGid4aN25iI?si=4S7Ab2APpcKOhHYC",
+        "category": "Neovim",
+        "title": "Neovim Plugin From Scratch: Markdown Presentation (Part 1)",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtu.be&sz=32"
+      },
+      {
+        "image": "screenshots/2024/Screenshot 2026-06-16 at 4.30.05\u202fPM.png",
+        "url": "https://youtu.be/ud7YxC33Z3w?si=bTLGi7RAbzPR2f_d",
+        "category": "Neovim",
+        "title": "This Zsh config is perhaps my favorite one yet.",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtu.be&sz=32"
+      }
+    ]
+  },
+  "2023": {
+    "": [
+      {
+        "image": "screenshots/2023/61Mw06x2XcL._AC_UF1000,1000_QL80_.jpg",
+        "url": "https://www.cs.mcgill.ca/~akroit/math/compsci/Cormen%20Introduction%20to%20Algorithms.pdf",
+        "category": "Competitive programming",
+        "title": "https://www.cs.mcgill.ca/~akroit/math/compsci/Cormen%20Introduction%20to%20Algorithms.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.cs.mcgill.ca&sz=32"
+      },
+      {
+        "image": "screenshots/2023/61eKRhl+NEL._AC_UF1000,1000_QL80_.jpg",
+        "url": "https://duoblogger.github.io/assets/pdf/memonvyftw/guide-t-cp.pdf",
+        "category": "Competitive programming",
+        "title": "https://duoblogger.github.io/assets/pdf/memonvyftw/guide-t-cp.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=duoblogger.github.io&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 5.52.40\u202fPM.png",
+        "url": "https://docs.google.com/spreadsheets/d/1thTtEmqIPzpgkVRsQgho1l_J7zPC4PLERRF_fPrWUlo/edit?gid=1160016643#gid=1160016643",
+        "category": "Competitive programming",
+        "title": "Google Sheets: Sign-in",
+        "favicon": "https://www.google.com/s2/favicons?domain=docs.google.com&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 5.53.00\u202fPM.png",
+        "url": "https://www.codechef.com/practice/zco-inoi-problems",
+        "category": "Competitive programming",
+        "title": "Practice for ZCO and INOI",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.codechef.com&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 5.53.41\u202fPM.png",
+        "url": "https://usaco.training/",
+        "category": "Competitive programming",
+        "title": "USACO Training Gateway",
+        "favicon": "https://www.google.com/s2/favicons?domain=usaco.training&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 5.54.16\u202fPM.png",
+        "url": "https://oj.uz/",
+        "category": "Competitive programming",
+        "title": "Welcome! :: oj.uz",
+        "favicon": "https://www.google.com/s2/favicons?domain=oj.uz&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 5.54.41\u202fPM.png",
+        "url": "https://cses.fi/",
+        "category": "Competitive programming",
+        "title": "CSES",
+        "favicon": "https://www.google.com/s2/favicons?domain=cses.fi&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 5.55.38\u202fPM.png",
+        "url": "https://c2-ladders-juol.onrender.com/",
+        "category": "Competitive programming",
+        "title": "C2Ladder",
+        "favicon": "https://www.google.com/s2/favicons?domain=c2-ladders-juol.onrender.com&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 5.56.33\u202fPM.png",
+        "url": "https://a2oj.netlify.app/",
+        "category": "Competitive programming",
+        "title": "Static A2OJ",
+        "favicon": "https://www.google.com/s2/favicons?domain=a2oj.netlify.app&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 6.09.53\u202fPM.png",
+        "url": "https://cses.fi/book/book.pdf",
+        "category": "Competitive programming",
+        "title": "https://cses.fi/book/book.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=cses.fi&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 6.18.11\u202fPM.png",
+        "url": "https://usaco.guide/",
+        "category": "Competitive programming",
+        "title": "USACO Guide",
+        "favicon": "https://www.google.com/s2/favicons?domain=usaco.guide&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 6.28.52\u202fPM.png",
+        "url": "https://codeforces.com/blog/entry/80759",
+        "category": "DSA",
+        "title": "VIM for competitive programming - Codeforces",
+        "favicon": "https://www.google.com/s2/favicons?domain=codeforces.com&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 6.30.34\u202fPM.png",
+        "url": "https://youtu.be/a2DD36WHpAY?si=bFu5-cNMDDVi-3h_",
+        "category": "DSA",
+        "title": "My Competitive Programming Setup",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtu.be&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 6.31.31\u202fPM.png",
+        "url": "https://github.com/TheAlgorithms",
+        "category": "DSA",
+        "title": "The Algorithms",
+        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 6.31.56\u202fPM.png",
+        "url": "https://github.com/seanprashad/leetcode-patterns",
+        "category": "DSA",
+        "title": "GitHub - seanprashad/leetcode-patterns: A pattern-based approach to learn technical interview questions",
+        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 6.32.58\u202fPM.png",
+        "url": "https://github.com/liquidslr/interview-company-wise-problems",
+        "category": "DSA",
+        "title": "GitHub - liquidslr/interview-company-wise-problems: Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 June, 2025",
+        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 6.33.50\u202fPM.png",
+        "url": "https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=GGsaysQdKXhlFJ2K",
+        "category": "DSA",
+        "title": "Strivers A2Z-DSA Course | DSA Playlist | Placements",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 6.41.06\u202fPM.png",
+        "url": "https://neetcode.io/",
+        "category": "DSA",
+        "title": "NeetCode | Coding Interview Prep, Courses, Versus Mode",
+        "favicon": "https://www.google.com/s2/favicons?domain=neetcode.io&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 6.41.57\u202fPM.png",
+        "url": "https://youtu.be/T0u5nwSA0w0?si=9hvuZRpE-HHb8gUS",
+        "category": "DSA",
+        "title": "Neetcode 150 Course - All Coding Interview Questions Solved",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtu.be&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 6.44.39\u202fPM.png",
+        "url": "https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/",
+        "category": "DSA",
+        "title": "Introduction to Algorithms (SMA 5503) | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+        "favicon": "https://www.google.com/s2/favicons?domain=ocw.mit.edu&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 6.45.07\u202fPM.png",
+        "url": "https://cpbook.net/",
+        "category": "Competitive programming",
+        "title": "Competitive Programming Book",
+        "favicon": "https://www.google.com/s2/favicons?domain=cpbook.net&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-16 at 6.45.34\u202fPM.png",
+        "url": "https://kostka.dev/sp/",
+        "category": "Competitive programming",
+        "title": "https://kostka.dev/sp/",
+        "favicon": "https://www.google.com/s2/favicons?domain=kostka.dev&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-17 at 3.11.40\u202fAM.png",
+        "url": "https://youtu.be/v392lEyM29A?si=4rviVWS422SRrwu_",
+        "category": "Linux",
+        "title": "Learn Linux - The Full Course",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtu.be&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-17 at 3.11.57\u202fAM.png",
+        "url": "https://youtu.be/Sx9zG7wa4FA?si=tDh7JQ-uvr1WVJNJ",
+        "category": "Linux",
+        "title": "The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell",
+        "favicon": "https://www.google.com/s2/favicons?domain=youtu.be&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-17 at 3.15.27\u202fAM.png",
+        "url": "https://labex.io/linuxjourney",
+        "category": "Linux",
+        "title": "Linux Journey Official Site | Formerly linuxjourney.com | Learn Linux for Free",
+        "favicon": "https://www.google.com/s2/favicons?domain=labex.io&sz=32"
+      },
+      {
+        "image": "screenshots/2023/Screenshot 2026-06-17 at 3.15.45\u202fAM.png",
+        "url": "https://linuxcommand.org/",
+        "category": "Linux",
+        "title": "LinuxCommand.org: Learn The Linux Command Line. Write Shell Scripts.",
+        "favicon": "https://www.google.com/s2/favicons?domain=linuxcommand.org&sz=32"
+      },
+      {
+        "image": "screenshots/2023/linuxfromscrath.png",
+        "url": "https://www.linuxfromscratch.org/",
+        "category": "Linux",
+        "title": "https://www.linuxfromscratch.org/",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.linuxfromscratch.org&sz=32"
+      }
+    ]
+  },
+  "2022": {
+    "": [
+      {
+        "image": "screenshots/2022/71XUjYYE7EL._AC_UF1000,1000_QL80_.jpg",
+        "url": "https://nathanschneider.info/open/Buterin-ProofOfStake.pdf",
+        "category": "Blockchain",
+        "title": "https://nathanschneider.info/open/Buterin-ProofOfStake.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=nathanschneider.info&sz=32"
+      },
+      {
+        "image": "screenshots/2022/Screenshot 2026-06-16 at 7.04.47\u202fPM.png",
+        "url": "https://intensecrypto.org/public/",
+        "category": "Blockchain",
+        "title": "An intensive introduction to cryptography: index",
+        "favicon": "https://www.google.com/s2/favicons?domain=intensecrypto.org&sz=32"
+      },
+      {
+        "image": "screenshots/2022/Screenshot 2026-06-16 at 7.05.23\u202fPM.png",
+        "url": "https://blockchainedindia.github.io/resources/",
+        "category": "Blockchain",
+        "title": "Blockchain Resources",
+        "favicon": "https://www.google.com/s2/favicons?domain=blockchainedindia.github.io&sz=32"
+      },
+      {
+        "image": "screenshots/2022/Screenshot 2026-06-16 at 7.05.48\u202fPM.png",
+        "url": "https://ethereum.org/whitepaper/",
+        "category": "Blockchain",
+        "title": "Ethereum Whitepaper | ethereum.org",
+        "favicon": "https://www.google.com/s2/favicons?domain=ethereum.org&sz=32"
+      },
+      {
+        "image": "screenshots/2022/Screenshot 2026-06-16 at 7.05.57\u202fPM.png",
+        "url": "https://bitcoin.org/bitcoin.pdf",
+        "category": "Blockchain",
+        "title": "https://bitcoin.org/bitcoin.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=bitcoin.org&sz=32"
+      },
+      {
+        "image": "screenshots/2022/617QU3IZGcL._AC_UF1000,1000_QL80_.jpg",
+        "url": "https://dn760103.eu.archive.org/0/items/elementsofcoordi00lone/elementsofcoordi00lone.pdf",
+        "category": "Mathematics",
+        "title": "500 Internal Server Error",
+        "favicon": "https://www.google.com/s2/favicons?domain=dn760103.eu.archive.org&sz=32"
+      },
+      {
+        "image": "screenshots/2022/61uHXWsUxJL.jpg",
+        "url": "https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf",
+        "category": "Mathematics",
+        "title": "https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=users.metu.edu.tr&sz=32"
+      },
+      {
+        "image": "screenshots/2022/71eZ9qedMLL._AC_UF1000,1000_QL80_.jpg",
+        "url": "https://www.amazon.in/Mathematical-Notation-Guide-Engineers-Scientists/dp/1466230525",
+        "category": "Mathematics",
+        "title": "Mathematical Notation: A Guide for Engineers and Scientists : Scheinerman, Edward R.: Amazon.in: Books",
+        "favicon": "https://www.google.com/s2/favicons?domain=www.amazon.in&sz=32"
+      },
+      {
+        "image": "screenshots/2022/GN berman.jpg",
+        "url": "https://archive.org/details/g.-n.-berman-a-problem-book-in-mathematical-analysis-mir-1980",
+        "category": "Mathematics",
+        "title": "A Problem Book In Mathematical Analysis : G. N. Berman : Free Download, Borrow, and Streaming : Internet Archive",
+        "favicon": "https://www.google.com/s2/favicons?domain=archive.org&sz=32"
+      },
+      {
+        "image": "screenshots/2022/higher algebra.jpg",
+        "url": "https://ncjindalps.com/pdf/MATHEMATICS/Higher%20Algebra%20-%20Hall%20_%20Knight.pdf",
+        "category": "Mathematics",
+        "title": "https://ncjindalps.com/pdf/MATHEMATICS/Higher%20Algebra%20-%20Hall%20_%20Knight.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=ncjindalps.com&sz=32"
+      },
+      {
+        "image": "screenshots/2022/plane trigo.jpg",
+        "url": "https://educationbestower.com/S.L%20LONEY.pdf",
+        "category": "Mathematics",
+        "title": "https://educationbestower.com/S.L%20LONEY.pdf",
+        "favicon": "https://www.google.com/s2/favicons?domain=educationbestower.com&sz=32"
+      }
+    ]
   }
 }
