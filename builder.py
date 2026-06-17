@@ -163,7 +163,7 @@ for year, cats in data.items():
         for bm in bm_list:
             if not bm.get("url"):
                 continue
-            cat = bm.get("category") or "Uncategorized"
+            cat = bm.get("category") or "Misc"
             try:
                 im = Image.open(bm["image"])
                 w, h = im.width, im.height
