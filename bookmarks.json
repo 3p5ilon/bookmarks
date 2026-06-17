@@ -2,32 +2,11 @@
   "2026": {
     "": [
       {
-        "image": "screenshots/2026/67A678E1-FE2A-4ED6-82D6-7A9AF53530F3.jpg",
-        "url": "https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ",
-        "category": "Machine Learning",
-        "title": "Neural Networks: Zero to Hero",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=32"
-      },
-      {
-        "image": "screenshots/2026/826736B5-A3F7-46A9-A37B-311F9F8F6006.jpg",
-        "url": "https://www.youtube.com/watch?v=w8yWXqWQYmU&t=10s",
-        "category": "Machine Learning",
-        "title": "Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=32"
-      },
-      {
-        "image": "screenshots/2026/Screenshot 2026-03-31 at 1.06.11\u202fPM.png",
-        "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
-        "category": "Maths",
-        "title": "Essence of linear algebra",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=32"
-      },
-      {
-        "image": "screenshots/2026/Screenshot 2026-03-31 at 6.24.36\u202fPM.png",
-        "url": "https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science",
-        "category": "Maths",
-        "title": "Mathematics for Machine Learning and Data Science",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.coursera.org&sz=32"
+        "image": "screenshots/2026/Screenshot 2026-06-17 at 4.34.17\u202fPM.png",
+        "url": "https://kindlemodding.org/",
+        "category": "",
+        "title": "https://kindlemodding.org/",
+        "favicon": "https://www.google.com/s2/favicons?domain=kindlemodding.org&sz=32"
       }
     ]
   },
@@ -726,6 +705,52 @@
         "category": "Mathematics",
         "title": "https://educationbestower.com/S.L%20LONEY.pdf",
         "favicon": "https://www.google.com/s2/favicons?domain=educationbestower.com&sz=32"
+      },
+      {
+        "image": "screenshots/2022/Screenshot 2026-06-17 at 4.34.28\u202fPM.png",
+        "url": "https://yufeizhao.com/olympiad/",
+        "category": "Mathematics",
+        "title": "https://yufeizhao.com/olympiad/",
+        "favicon": "https://www.google.com/s2/favicons?domain=yufeizhao.com&sz=32"
+      }
+    ]
+  },
+  "2025": {
+    "": [
+      {
+        "image": "screenshots/2025/Screenshot 2026-06-17 at 4.33.56\u202fPM.png",
+        "url": "https://missing.csail.mit.edu/",
+        "category": "",
+        "title": "https://missing.csail.mit.edu/",
+        "favicon": "https://www.google.com/s2/favicons?domain=missing.csail.mit.edu&sz=32"
+      },
+      {
+        "image": "screenshots/2025/Screenshot 2026-06-17 at 4.34.03\u202fPM.png",
+        "url": "https://roadmap.sh/ai-engineer",
+        "category": "",
+        "title": "https://roadmap.sh/ai-engineer",
+        "favicon": "https://www.google.com/s2/favicons?domain=roadmap.sh&sz=32"
+      },
+      {
+        "image": "screenshots/2025/Screenshot 2026-06-17 at 4.34.08\u202fPM.png",
+        "url": "https://roadmap.sh/ai-data-scientist",
+        "category": "",
+        "title": "https://roadmap.sh/ai-data-scientist",
+        "favicon": "https://www.google.com/s2/favicons?domain=roadmap.sh&sz=32"
+      },
+      {
+        "image": "screenshots/2025/Screenshot 2026-06-17 at 4.34.11\u202fPM.png",
+        "url": "https://roadmap.sh/machine-learning",
+        "category": "",
+        "title": "https://roadmap.sh/machine-learning",
+        "favicon": "https://www.google.com/s2/favicons?domain=roadmap.sh&sz=32"
+      },
+      {
+        "image": "screenshots/2025/Screenshot 2026-06-17 at 4.42.38\u202fPM.png",
+        "url": "https://github.com/nayafia/microgrants",
+        "category": "",
+        "title": "https://github.com/nayafia/microgrants",
+        "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=32"
       }
     ]
   }

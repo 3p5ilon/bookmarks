@@ -1,46 +1,21 @@
 {
   "years": [
     "2026",
+    "2025",
     "2024",
     "2023",
     "2022"
   ],
   "data": {
     "2026": {
-      "Machine Learning": [
+      "Misc": [
         {
-          "image": "screenshots/2026/67A678E1-FE2A-4ED6-82D6-7A9AF53530F3.jpg",
-          "url": "https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ",
-          "title": "Neural Networks: Zero to Hero",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=32",
-          "w": 2048,
-          "h": 1837
-        },
-        {
-          "image": "screenshots/2026/826736B5-A3F7-46A9-A37B-311F9F8F6006.jpg",
-          "url": "https://www.youtube.com/watch?v=w8yWXqWQYmU&t=10s",
-          "title": "Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=32",
-          "w": 1318,
-          "h": 1874
-        }
-      ],
-      "Maths": [
-        {
-          "image": "screenshots/2026/Screenshot%202026-03-31%20at%201.06.11%E2%80%AFPM.png",
-          "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
-          "title": "Essence of linear algebra",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=32",
-          "w": 2276,
-          "h": 1566
-        },
-        {
-          "image": "screenshots/2026/Screenshot%202026-03-31%20at%206.24.36%E2%80%AFPM.png",
-          "url": "https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science",
-          "title": "Mathematics for Machine Learning and Data Science",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.coursera.org&sz=32",
-          "w": 2276,
-          "h": 1566
+          "image": "screenshots/2026/Screenshot%202026-06-17%20at%204.34.17%E2%80%AFPM.png",
+          "url": "https://kindlemodding.org/",
+          "title": "https://kindlemodding.org/",
+          "favicon": "https://www.google.com/s2/favicons?domain=kindlemodding.org&sz=32",
+          "w": 1266,
+          "h": 644
         }
       ]
     },
@@ -849,6 +824,58 @@
           "favicon": "https://www.google.com/s2/favicons?domain=educationbestower.com&sz=32",
           "w": 647,
           "h": 1000
+        },
+        {
+          "image": "screenshots/2022/Screenshot%202026-06-17%20at%204.34.28%E2%80%AFPM.png",
+          "url": "https://yufeizhao.com/olympiad/",
+          "title": "https://yufeizhao.com/olympiad/",
+          "favicon": "https://www.google.com/s2/favicons?domain=yufeizhao.com&sz=32",
+          "w": 1266,
+          "h": 644
+        }
+      ]
+    },
+    "2025": {
+      "Misc": [
+        {
+          "image": "screenshots/2025/Screenshot%202026-06-17%20at%204.33.56%E2%80%AFPM.png",
+          "url": "https://missing.csail.mit.edu/",
+          "title": "https://missing.csail.mit.edu/",
+          "favicon": "https://www.google.com/s2/favicons?domain=missing.csail.mit.edu&sz=32",
+          "w": 1266,
+          "h": 644
+        },
+        {
+          "image": "screenshots/2025/Screenshot%202026-06-17%20at%204.34.03%E2%80%AFPM.png",
+          "url": "https://roadmap.sh/ai-engineer",
+          "title": "https://roadmap.sh/ai-engineer",
+          "favicon": "https://www.google.com/s2/favicons?domain=roadmap.sh&sz=32",
+          "w": 1266,
+          "h": 644
+        },
+        {
+          "image": "screenshots/2025/Screenshot%202026-06-17%20at%204.34.08%E2%80%AFPM.png",
+          "url": "https://roadmap.sh/ai-data-scientist",
+          "title": "https://roadmap.sh/ai-data-scientist",
+          "favicon": "https://www.google.com/s2/favicons?domain=roadmap.sh&sz=32",
+          "w": 1266,
+          "h": 644
+        },
+        {
+          "image": "screenshots/2025/Screenshot%202026-06-17%20at%204.34.11%E2%80%AFPM.png",
+          "url": "https://roadmap.sh/machine-learning",
+          "title": "https://roadmap.sh/machine-learning",
+          "favicon": "https://www.google.com/s2/favicons?domain=roadmap.sh&sz=32",
+          "w": 1266,
+          "h": 644
+        },
+        {
+          "image": "screenshots/2025/Screenshot%202026-06-17%20at%204.42.38%E2%80%AFPM.png",
+          "url": "https://github.com/nayafia/microgrants",
+          "title": "https://github.com/nayafia/microgrants",
+          "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=32",
+          "w": 1776,
+          "h": 482
         }
       ]
     }
