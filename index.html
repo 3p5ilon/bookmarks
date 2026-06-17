@@ -236,22 +236,12 @@
       const sw = containerEl.getBoundingClientRect().width;
       const pairs = entries.map(({ w, h }) => displaySize(w, h, sw));
 
-      // smart starting height — scales with actual content, not a fixed 600.
-      // few images get a small container, many images grow naturally.
-      const totalArea = pairs.reduce((sum, [w, h]) => sum + w * h, 0);
-      const tallest = Math.max(...pairs.map(([, h]) => h));
-      const startHeight = Math.max(
-        tallest + 20,
-        Math.sqrt(totalArea * (sw / 900)),
-      );
-
       let pos = [];
 
       entries.forEach((bm, i) => {
-        let H = startHeight;
         const [w, h] = pairs[i];
+        let H = h + 10;
 
-        // same packing approach as vibes: 50 random attempts, then grow by 50px
         outer: while (true) {
           for (let attempt = 0; attempt < 50; attempt++) {
             const al = Math.random() * (sw - w);
